@@ -1,0 +1,5 @@
+node_modules/*
+client/node_modules/*
+client/android/*
+client/ios/*
+client/__tests__/*

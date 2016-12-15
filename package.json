@@ -1,0 +1,19 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ClementHannicq",
+  "scripts": {
+    "start": "babel-node --presets node6 index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-node6": "^11.0.0",
+    "express": "^4.14.0",
+    "express-graphql": "^0.6.1",
+    "graphql": "^0.8.2",
+    "lodash": "^4.17.2",
+    "react-native": "^0.39.2"
+  }
+}
